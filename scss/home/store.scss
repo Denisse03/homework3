@@ -1,0 +1,51 @@
+.store{
+ width: 100%;
+ height: 850px;
+
+.stores{
+    width: 100%;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+ 
+    .outside{
+        width: 200px;
+        height: 200px;
+        background-image: url(../images/Unknown-6.jpeg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+     }
+    
+     .out{
+        width: 300px;
+        height: 160px;
+   
+        margin-right: 160px;
+     }
+    
+     .inside{
+        width: 200px;
+        height: 200px;
+        background-image: url(../images/Unknown-7.jpeg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+
+     }
+       
+     .people{
+        width: 200px;
+        height: 200px;
+        background-image: url(../images/images-2.jpeg);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+     }
+}
+
+
+   
+
+}

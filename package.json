@@ -1,0 +1,16 @@
+{
+  "name": "homework3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "live-serve",
+    "compile-sass": "sass scss/styles.scss css/styles.scss -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.54.9"
+  }
+}
